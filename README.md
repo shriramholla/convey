@@ -1,2 +1,2 @@
 # convey
-A webapp for the deaf and dumb that converts text to speech and speech to sign language
+A webapp for the deaf and mute that converts text to speech and speech to sign language
